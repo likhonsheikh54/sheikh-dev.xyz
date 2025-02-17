@@ -1,0 +1,6 @@
+{
+  "name": "gemini_2_flash",
+  "description": "Enable Gemini 2.0 Flash (Preview) for all clients",
+  "enabled": true,
+  "criteria": {}
+}

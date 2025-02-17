@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My First Blog Post",
+    "url": "/blog/post-1.html",
+    "excerpt": "This is a short preview of my first blog post."
+  },
+  {
+    "title": "Building a Static Portfolio",
+    "url": "/blog/post-2.html",
+    "excerpt": "Learn how to build a high-performance static portfolio."
+  }
+]
